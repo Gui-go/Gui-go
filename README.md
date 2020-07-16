@@ -1,6 +1,7 @@
-# Guilherme Viegas :octocat:
+# Guilherme Viegas <span>&#x1f1e7;&#x1f1f7;</span>
+:octocat:
 ### :zap:
-## <span>&#x1f1e7;&#x1f1f7;</span>
+
 
 ### Hi there 👋
 

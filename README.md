@@ -1,5 +1,4 @@
 # Guilherme Viegas
-##
 ### :zap:
 
 ### Hi there 👋

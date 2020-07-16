@@ -1,6 +1,6 @@
 # Guilherme Viegas :octocat:
 ### :zap:
-## :br:
+## <span>&#x1f1e7;&#x1f1f7;</span>
 
 ### Hi there 👋
 

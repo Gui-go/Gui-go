@@ -10,7 +10,7 @@
 
 :house: Santa Catarina, Brazil
 
-:office: Aquarela Advanced Analytics
+:office: 4i - 4intelligence
 
 ### <span>&#x1F1F5;&#x1F1F9;</span> :uk: :es: :de: :cn:
 

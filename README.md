@@ -6,7 +6,7 @@
 
 :link: [Gui-go’s LinkedIn](https://www.linkedin.com/in/guilherme-viegas-1b5b0495/)
 
-:paperclip: New portifolio (in react) on its way
+:paperclip: New portifolio on its way
 
 :house: Santa Catarina, Brazil
 

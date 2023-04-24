@@ -10,7 +10,6 @@
 
 :house: Santa Catarina, Brazil
 
-### <span>&#x1F1F5;&#x1F1F9;</span> :uk: :es: :de: :cn:
 
 <!--
 **Gui-go/Gui-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

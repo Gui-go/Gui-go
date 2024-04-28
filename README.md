@@ -1,4 +1,4 @@
-# Guilherme Viegas <span>&#x1f1e7;&#x1f1f7;</span> <span>&#x1F1F5;&#x1F1F9;</span>
+# Guilherme Viegas 
 
 :mailbox: guilhermeviegas1993@gmail.com
 

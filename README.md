@@ -6,7 +6,7 @@
 
 :paperclip: New portifolio on its way
 
-:house: Santa Catarina, Brazil
+:house: Santa Catarina, Brasil
 
 
 <!--

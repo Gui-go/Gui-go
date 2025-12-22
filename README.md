@@ -4,7 +4,7 @@
 
 :link: [Gui-go’s LinkedIn](https://www.linkedin.com/in/guilherme-viegas-1b5b0495/)
 
-:paperclip: https://www.guigo.dev.br/
+:paperclip: https://www.guilhermeviegas.dev/
 
 :house: Santa Catarina, Brasil
 

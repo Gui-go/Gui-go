@@ -2,7 +2,7 @@
 
 :mailbox: guilhermeviegas1993@gmail.com
 
-:link: [Gui-go’s LinkedIn](https://www.linkedin.com/in/guilherme-viegas-1b5b0495/)
+:link: [Guilherme’s LinkedIn profile](https://www.linkedin.com/in/guilherme-viegas-1b5b0495/)
 
 :paperclip: https://www.guilhermeviegas.dev/
 
